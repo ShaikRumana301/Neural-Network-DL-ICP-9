@@ -5,7 +5,7 @@ Video Link: https://drive.google.com/file/d/1-d_RUX0323BMBBMtZ0TOewoc8l5f8F--/vi
 
 The following steps are followed for ICP-9:
 
-In Jupiter notepad written the code for the following and mentioned the comments for the code and uploaded the "NNDL_ICP_8.ipynb" to repo:
+In Jupiter notepad written the code for the following and mentioned the comments for the code and uploaded the "NNDL-ICP-9.ipynb" to repo:
 
  - First installed the packages Keras and Tensorflow.
  - Programming elements: 1. Basics of LSTM 2. Types of RNN 3. Use case: Sentiment Analysis on the Twitter data set 
